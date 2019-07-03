@@ -74,6 +74,8 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
+  'TTD',          // Trinidad and Tobago Dollar
+  'INR'           // India Rupee
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames', 'units'];
